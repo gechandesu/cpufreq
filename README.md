@@ -8,7 +8,7 @@ Usage: cpufreq [-b|--brief] [-t|--table] [-h|--help] [-v|--version]
 
 # Build from source
 
-First install Nim language compiler. See instructions of [Nim site](https://nim-lang.org/install.html).
+First install Nim language compiler. See instructions on [Nim site](https://nim-lang.org/install.html). You need Nim v1.2.0 or newer.
 
 Compile programm:
 
